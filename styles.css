@@ -1,0 +1,17 @@
+.main{
+    position: relative;
+    height: 400px;
+    left:25%;
+    top:20%;
+}
+#keys{
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    height:100px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+}
